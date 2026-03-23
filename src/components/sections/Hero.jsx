@@ -80,6 +80,7 @@ export default function Hero() {
           >
             <a
               href={PERSONAL_INFO.resume}
+              download
               className="flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-full font-medium transition-all shadow-lg shadow-blue-600/20 hover:shadow-blue-600/40 hover:-translate-y-1"
             >
               <Download size={20} /> Download CV
