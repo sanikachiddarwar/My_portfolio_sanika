@@ -6,7 +6,7 @@ export const PERSONAL_INFO = {
   linkedin: "https://linkedin.com/in/sanikachiddarwar",
   email: "mailto:sanikachiddarwar02102005@gmail.com",
   phone: "+91-8010731123",
-  resume: "#", // Update with actual Resume PDF link if available
+  resume: "/MY_CV_SANIKA.pdf", // Update with actual Resume PDF link if available
 };
 
 export const ABOUT_CARDS = [
